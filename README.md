@@ -1,7 +1,7 @@
 # Canny-Edge-Detection.
 # workshop-3 - Canny Edge Detection
-# Name :sakthivel s
-# reg no:212223220090
+# Name :MANIKUMAR D.K
+# reg no:212223230121
 ## AIM :
 To implement the Canny Edge Detection algorithm on a digital image to accurately detect and highlight significant edges while minimizing noise and false detections.
 
@@ -24,7 +24,7 @@ plt.title('Detected Edges'), plt.axis('off')
 plt.show()
 ```
 ## OUTPUT
-<img width="699" height="427" alt="download" src="https://github.com/user-attachments/assets/ffdf59fe-06b4-4cd9-aa4b-a58a28033f8f" />
+![WhatsApp Image 2025-11-10 at 11 11 16_3bbf93ce](https://github.com/user-attachments/assets/b5db6d95-49e2-4efd-874b-37ede957b68d)
 
 ## RESULT:
 The Canny Edge Detection algorithm was successfully implemented.
